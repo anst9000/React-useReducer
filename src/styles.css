@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+span {
+  font-size: 4rem;
+}
+button {
+  margin: 1rem;
+  font-size: 3rem;
+  font-weight: bold;
+  min-width: 4rem;
+  min-height: 4rem;
+}
